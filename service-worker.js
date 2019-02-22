@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Ishuamali/ballerina-message-broker/broker-ui-client/precache-manifest.d941475fbd3e3857920e61b2eb31bfcf.js"
+  "/ballerina-message-broker/precache-manifest.477fbce91263c3e2610cf59f5473e600.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Ishuamali/ballerina-message-broker/broker-ui-client/index.html", {
+workbox.routing.registerNavigationRoute("/ballerina-message-broker/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
