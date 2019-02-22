@@ -1,14 +1,14 @@
 {
-  "main.css": "/Ishuamali/ballerina-message-broker/tree/broker-ui-client/static/css/main.a4d5a1d5.chunk.css",
-  "main.js": "/Ishuamali/ballerina-message-broker/tree/broker-ui-client/static/js/main.2a03791d.chunk.js",
-  "main.js.map": "/Ishuamali/ballerina-message-broker/tree/broker-ui-client/static/js/main.2a03791d.chunk.js.map",
-  "static/js/1.d47f8030.chunk.js": "/Ishuamali/ballerina-message-broker/tree/broker-ui-client/static/js/1.d47f8030.chunk.js",
-  "static/js/1.d47f8030.chunk.js.map": "/Ishuamali/ballerina-message-broker/tree/broker-ui-client/static/js/1.d47f8030.chunk.js.map",
-  "runtime~main.js": "/Ishuamali/ballerina-message-broker/tree/broker-ui-client/static/js/runtime~main.d18a27a5.js",
-  "runtime~main.js.map": "/Ishuamali/ballerina-message-broker/tree/broker-ui-client/static/js/runtime~main.d18a27a5.js.map",
-  "static/media/message-broker.png": "/Ishuamali/ballerina-message-broker/tree/broker-ui-client/static/media/message-broker.56b995da.png",
-  "static/css/main.a4d5a1d5.chunk.css.map": "/Ishuamali/ballerina-message-broker/tree/broker-ui-client/static/css/main.a4d5a1d5.chunk.css.map",
-  "index.html": "/Ishuamali/ballerina-message-broker/tree/broker-ui-client/index.html",
-  "precache-manifest.16a8e62190b1f9e5a19044a8b8c93a82.js": "/Ishuamali/ballerina-message-broker/tree/broker-ui-client/precache-manifest.16a8e62190b1f9e5a19044a8b8c93a82.js",
-  "service-worker.js": "/Ishuamali/ballerina-message-broker/tree/broker-ui-client/service-worker.js"
+  "main.css": "/Ishuamali/ballerina-message-broker/broker-ui-client/static/css/main.a4d5a1d5.chunk.css",
+  "main.js": "/Ishuamali/ballerina-message-broker/broker-ui-client/static/js/main.1a85d84b.chunk.js",
+  "main.js.map": "/Ishuamali/ballerina-message-broker/broker-ui-client/static/js/main.1a85d84b.chunk.js.map",
+  "static/js/1.d47f8030.chunk.js": "/Ishuamali/ballerina-message-broker/broker-ui-client/static/js/1.d47f8030.chunk.js",
+  "static/js/1.d47f8030.chunk.js.map": "/Ishuamali/ballerina-message-broker/broker-ui-client/static/js/1.d47f8030.chunk.js.map",
+  "runtime~main.js": "/Ishuamali/ballerina-message-broker/broker-ui-client/static/js/runtime~main.d33308a7.js",
+  "runtime~main.js.map": "/Ishuamali/ballerina-message-broker/broker-ui-client/static/js/runtime~main.d33308a7.js.map",
+  "static/media/message-broker.png": "/Ishuamali/ballerina-message-broker/broker-ui-client/static/media/message-broker.56b995da.png",
+  "static/css/main.a4d5a1d5.chunk.css.map": "/Ishuamali/ballerina-message-broker/broker-ui-client/static/css/main.a4d5a1d5.chunk.css.map",
+  "index.html": "/Ishuamali/ballerina-message-broker/broker-ui-client/index.html",
+  "precache-manifest.d941475fbd3e3857920e61b2eb31bfcf.js": "/Ishuamali/ballerina-message-broker/broker-ui-client/precache-manifest.d941475fbd3e3857920e61b2eb31bfcf.js",
+  "service-worker.js": "/Ishuamali/ballerina-message-broker/broker-ui-client/service-worker.js"
 }
