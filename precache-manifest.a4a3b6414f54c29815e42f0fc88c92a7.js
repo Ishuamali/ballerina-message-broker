@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/ballerina-message-broker/static/js/runtime~main.21cfaaca.js"
   },
   {
-    "revision": "4c04821b5a2c1aed51a1",
-    "url": "/ballerina-message-broker/static/js/main.4c04821b.chunk.js"
+    "revision": "64590d5e70e55229e987",
+    "url": "/ballerina-message-broker/static/js/main.64590d5e.chunk.js"
   },
   {
     "revision": "d47f80308a7f605b61d4",
     "url": "/ballerina-message-broker/static/js/1.d47f8030.chunk.js"
   },
   {
-    "revision": "4c04821b5a2c1aed51a1",
-    "url": "/ballerina-message-broker/static/css/main.a4d5a1d5.chunk.css"
+    "revision": "64590d5e70e55229e987",
+    "url": "/ballerina-message-broker/static/css/main.c2391f92.chunk.css"
   },
   {
-    "revision": "d27de2b0777f4018b5282460fadd62fc",
+    "revision": "2ba1b6d67601a7e83bb56fc20f64bc16",
     "url": "/ballerina-message-broker/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ballerina-message-broker/precache-manifest.477fbce91263c3e2610cf59f5473e600.js"
+  "/ballerina-message-broker/precache-manifest.a4a3b6414f54c29815e42f0fc88c92a7.js"
 );
 
 workbox.clientsClaim();
