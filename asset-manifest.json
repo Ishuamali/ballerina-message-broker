@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.c2391f92.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.d276f833.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.d276f833.chunk.js.map",
-  "static/js/1.d47f8030.chunk.js": "/react-gh-pages/static/js/1.d47f8030.chunk.js",
-  "static/js/1.d47f8030.chunk.js.map": "/react-gh-pages/static/js/1.d47f8030.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/media/message-broker.png": "/react-gh-pages/static/media/message-broker.56b995da.png",
-  "static/css/main.c2391f92.chunk.css.map": "/react-gh-pages/static/css/main.c2391f92.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.ea66e798d86c442bc5dc34c71ce5440b.js": "/react-gh-pages/precache-manifest.ea66e798d86c442bc5dc34c71ce5440b.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/css/main.c2391f92.chunk.css",
+  "main.js": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/js/main.6a017992.chunk.js",
+  "main.js.map": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/js/main.6a017992.chunk.js.map",
+  "static/js/1.d47f8030.chunk.js": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/js/1.d47f8030.chunk.js",
+  "static/js/1.d47f8030.chunk.js.map": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/js/1.d47f8030.chunk.js.map",
+  "runtime~main.js": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/js/runtime~main.76898a9c.js",
+  "runtime~main.js.map": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/js/runtime~main.76898a9c.js.map",
+  "static/media/message-broker.png": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/media/message-broker.56b995da.png",
+  "static/css/main.c2391f92.chunk.css.map": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/css/main.c2391f92.chunk.css.map",
+  "index.html": "/Ishuamali/ballerina-message-broker/tree/gh-pages/index.html",
+  "precache-manifest.4f96353c108f1315da22e0da76dccdf2.js": "/Ishuamali/ballerina-message-broker/tree/gh-pages/precache-manifest.4f96353c108f1315da22e0da76dccdf2.js",
+  "service-worker.js": "/Ishuamali/ballerina-message-broker/tree/gh-pages/service-worker.js"
 }
