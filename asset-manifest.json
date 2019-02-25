@@ -1,14 +1,14 @@
 {
-  "main.css": "/ballerina-message-broker/static/css/main.c2391f92.chunk.css",
-  "main.js": "/ballerina-message-broker/static/js/main.64590d5e.chunk.js",
-  "main.js.map": "/ballerina-message-broker/static/js/main.64590d5e.chunk.js.map",
-  "static/js/1.d47f8030.chunk.js": "/ballerina-message-broker/static/js/1.d47f8030.chunk.js",
-  "static/js/1.d47f8030.chunk.js.map": "/ballerina-message-broker/static/js/1.d47f8030.chunk.js.map",
-  "runtime~main.js": "/ballerina-message-broker/static/js/runtime~main.21cfaaca.js",
-  "runtime~main.js.map": "/ballerina-message-broker/static/js/runtime~main.21cfaaca.js.map",
-  "static/media/message-broker.png": "/ballerina-message-broker/static/media/message-broker.56b995da.png",
-  "static/css/main.c2391f92.chunk.css.map": "/ballerina-message-broker/static/css/main.c2391f92.chunk.css.map",
-  "index.html": "/ballerina-message-broker/index.html",
-  "precache-manifest.a4a3b6414f54c29815e42f0fc88c92a7.js": "/ballerina-message-broker/precache-manifest.a4a3b6414f54c29815e42f0fc88c92a7.js",
-  "service-worker.js": "/ballerina-message-broker/service-worker.js"
+  "main.css": "/react-gh-pages/static/css/main.c2391f92.chunk.css",
+  "main.js": "/react-gh-pages/static/js/main.d276f833.chunk.js",
+  "main.js.map": "/react-gh-pages/static/js/main.d276f833.chunk.js.map",
+  "static/js/1.d47f8030.chunk.js": "/react-gh-pages/static/js/1.d47f8030.chunk.js",
+  "static/js/1.d47f8030.chunk.js.map": "/react-gh-pages/static/js/1.d47f8030.chunk.js.map",
+  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
+  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
+  "static/media/message-broker.png": "/react-gh-pages/static/media/message-broker.56b995da.png",
+  "static/css/main.c2391f92.chunk.css.map": "/react-gh-pages/static/css/main.c2391f92.chunk.css.map",
+  "index.html": "/react-gh-pages/index.html",
+  "precache-manifest.ea66e798d86c442bc5dc34c71ce5440b.js": "/react-gh-pages/precache-manifest.ea66e798d86c442bc5dc34c71ce5440b.js",
+  "service-worker.js": "/react-gh-pages/service-worker.js"
 }
