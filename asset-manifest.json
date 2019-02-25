@@ -1,14 +1,14 @@
 {
-  "main.css": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/css/main.c2391f92.chunk.css",
-  "main.js": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/js/main.6a017992.chunk.js",
-  "main.js.map": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/js/main.6a017992.chunk.js.map",
-  "static/js/1.d47f8030.chunk.js": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/js/1.d47f8030.chunk.js",
-  "static/js/1.d47f8030.chunk.js.map": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/js/1.d47f8030.chunk.js.map",
-  "runtime~main.js": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/js/runtime~main.76898a9c.js",
-  "runtime~main.js.map": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/js/runtime~main.76898a9c.js.map",
-  "static/media/message-broker.png": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/media/message-broker.56b995da.png",
-  "static/css/main.c2391f92.chunk.css.map": "/Ishuamali/ballerina-message-broker/tree/gh-pages/static/css/main.c2391f92.chunk.css.map",
-  "index.html": "/Ishuamali/ballerina-message-broker/tree/gh-pages/index.html",
-  "precache-manifest.4f96353c108f1315da22e0da76dccdf2.js": "/Ishuamali/ballerina-message-broker/tree/gh-pages/precache-manifest.4f96353c108f1315da22e0da76dccdf2.js",
-  "service-worker.js": "/Ishuamali/ballerina-message-broker/tree/gh-pages/service-worker.js"
+  "main.css": "/ballerina-message-broker/static/css/main.c2391f92.chunk.css",
+  "main.js": "/ballerina-message-broker/static/js/main.64590d5e.chunk.js",
+  "main.js.map": "/ballerina-message-broker/static/js/main.64590d5e.chunk.js.map",
+  "static/js/1.d47f8030.chunk.js": "/ballerina-message-broker/static/js/1.d47f8030.chunk.js",
+  "static/js/1.d47f8030.chunk.js.map": "/ballerina-message-broker/static/js/1.d47f8030.chunk.js.map",
+  "runtime~main.js": "/ballerina-message-broker/static/js/runtime~main.21cfaaca.js",
+  "runtime~main.js.map": "/ballerina-message-broker/static/js/runtime~main.21cfaaca.js.map",
+  "static/media/message-broker.png": "/ballerina-message-broker/static/media/message-broker.56b995da.png",
+  "static/css/main.c2391f92.chunk.css.map": "/ballerina-message-broker/static/css/main.c2391f92.chunk.css.map",
+  "index.html": "/ballerina-message-broker/index.html",
+  "precache-manifest.a4a3b6414f54c29815e42f0fc88c92a7.js": "/ballerina-message-broker/precache-manifest.a4a3b6414f54c29815e42f0fc88c92a7.js",
+  "service-worker.js": "/ballerina-message-broker/service-worker.js"
 }

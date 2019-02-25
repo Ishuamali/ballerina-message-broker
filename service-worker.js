@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Ishuamali/ballerina-message-broker/tree/gh-pages/precache-manifest.4f96353c108f1315da22e0da76dccdf2.js"
+  "/ballerina-message-broker/precache-manifest.a4a3b6414f54c29815e42f0fc88c92a7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Ishuamali/ballerina-message-broker/tree/gh-pages/index.html", {
+workbox.routing.registerNavigationRoute("/ballerina-message-broker/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
